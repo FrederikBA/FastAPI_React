@@ -2,8 +2,6 @@
 <p>
 </p>
 
-> Run FastAPI
-
 ## Dependencies
 ```sh
 pip install fastapi
